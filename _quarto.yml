@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "⋆｡°✩ JY's NM2207 Website ⋆｡°✩"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - coursecontent.qmd
+      - starbucks.qmd
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
+
