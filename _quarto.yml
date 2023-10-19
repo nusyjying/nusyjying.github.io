@@ -8,8 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - coursecontent.qmd
-      - starbucks.qmd
+      - href: coursecontent.qmd
+        text: NM2207 Weekly Journey
+      - href: starbucks.qmd
+        text: Data Story Project
 
 format:
   html:
