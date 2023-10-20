@@ -11,7 +11,7 @@ knitr::include_graphics("C:/Users/yeojy/Documents/Y2S1/NM2207/nusyjying.github.i
 
 Hello!! I'm Jing Ying, a Year 2 Sociology major who is minoring in Communications and New Media in NUS. I love travelling and trying new cafes, and I have a crazed addiction to matcha and other types of tea!!
 
-Welcome to my website
+Welcome to my website!!
 
 /ᐢ⑅ᐢ\\ ♡ ₊˚
 
