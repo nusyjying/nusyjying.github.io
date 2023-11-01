@@ -23,8 +23,8 @@
   {
     "objectID": "starbucks.html",
     "href": "starbucks.html",
-    "title": "Data Story",
+    "title": "ʚ♡ɞ Final Project - Starbucks ʚ♡ɞ",
     "section": "",
-    "text": "ʚ♡ɞ Final Project - Starbucks ʚ♡ɞ\nAs part of the final project of NM2207, we are to construct a data story from a data set of our own choosing. With that in mind, I’ve chosen to base my data story and project on a data set I’ve found about Starbucks branches in California!\nI’m interested to poke around and explore any observable links and correlations between the common-ness of Starbucks branches and the frequency of certain profiles of the residents, and see what that says about certain stereotypes and branding associated with Starbucks. This is because I am a fan of sweet, iced drinks, and I used go to Starbucks (the Singapore branches) often to get my fix of coffee or matcha frappuccinos.\n\nThis is still a work in progress! This section will be filled out as the semester approaches its end 𓂃 ࣪˖ ִֶָ𐀔"
+    "text": "As part of the final project of NM2207, we are to construct a data story from a data set of our own choosing. With that in mind, I’ve chosen to base my data story and project on a data set I’ve found about Starbucks branches in California!\nI’m interested to poke around and explore any observable links and correlations between the common-ness of Starbucks branches and the frequency of certain profiles of the residents, and see what that says about certain stereotypes and branding associated with Starbucks. This is because I am a fan of sweet, iced drinks, and I used go to Starbucks (the Singapore branches) often to get my fix of coffee or matcha frappuccinos.\nHere is an embedded Shiny app for you to explore the plots of the Starbucks dataset variables!\n\n\nFrom the visualisations in the scatter plots, there doesn’t seem to be a strong"
   }
 ]

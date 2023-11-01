@@ -1,12 +1,13 @@
 ---
-title: "Data Story"
+title: "ʚ♡ɞ Final Project - Starbucks ʚ♡ɞ"
 ---
-
-# ʚ♡ɞ Final Project - Starbucks ʚ♡ɞ
 
 As part of the final project of NM2207, we are to construct a data story from a data set of our own choosing. With that in mind, I've chosen to base my data story and project on a data set I've found about Starbucks branches in California!
 
 I'm interested to poke around and explore any observable links and correlations between the common-ness of Starbucks branches and the frequency of certain profiles of the residents, and see what that says about certain stereotypes and branding associated with Starbucks. This is because I am a fan of sweet, iced drinks, and I used  go to Starbucks (the Singapore branches) often to get my fix of coffee or matcha frappuccinos.
 
+Here is an embedded Shiny app for you to explore the plots of the Starbucks dataset variables!
 
-### <span style="color: red;">This is still a work in progress! This section will be filled out as the semester approaches its end 𓂃 ࣪˖ ִֶָ𐀔 
+<iframe height="1200" width="200%" frameborder="no" src="https://nusyjying.shinyapps.io/StarbiesPlotApp/"> </iframe>
+
+From the visualisations in the scatter plots, there doesn't seem to be a strong 
