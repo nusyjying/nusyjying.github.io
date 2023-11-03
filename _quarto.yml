@@ -1,10 +1,10 @@
 project:
-  type: website
-  output-dir: docs
+ type: website
+ output-dir: docs
 
 website:
-  title: "⋆｡°✩ JY's NM2207 Website ⋆｡°✩"
-  navbar:
+ title: "⋆｡°✩ JY's NM2207 Website ⋆｡°✩"
+ navbar:
     left:
       - href: index.qmd
         text: Home
@@ -14,10 +14,11 @@ website:
         text: Data Story Project
 
 format:
-  html:
+ html:
     theme: lumen
     css: styles.css
     toc: true
+    page-layout: full
+    body-align: left
 
 editor: visual
-
