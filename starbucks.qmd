@@ -10,7 +10,7 @@ I'm interested to poke around and explore any observable links and correlations 
 
 Here is an embedded Shiny app for you to explore the plots of the Starbucks dataset variables! Join me and try to spot any trends!!
 
-<iframe height="1200" width="200%" frameborder="no" src="https://nusyjying.shinyapps.io/StarbiesPlotApp/"> </iframe>
+<iframe height="1200" width="180%" frameborder="no" src="https://nusyjying.shinyapps.io/StarbiesPlotApp/"> </iframe>
 
 ## Personal thoughts
 
@@ -20,6 +20,26 @@ From my own exploration of this plot visualisation app, I personally observe tha
 
 I’m personally looking at Percentage of white population, Median household income, Median age, Number of Starbucks, Starbucks per million inhabitants, and Starbucks per 10 sq mile. In particular, I want to pay special attention to **Starbucks per million inhabitants** as a way for me to relate the differing populations of the different geographical locations to give me the most apt proportion of Starbucks distribution.
 
-Ultimately, the weak correlation tells me that the association between the frequency of Starbucks branches and outlets in a particular geographical location and factors such as population whiteness, age, and SES is weak. However, the observable positive correlation in the plots between "percentage of white population and Starbucks per million inhabitants" and "median age and Starbucks per million inhabitants" is apparent, which at least suggests that the stereotype that Starbucks leans towards a customer profile and target of satisfaction that may be prominently White. 
+```{r, eval=TRUE,echo=FALSE,out.width="70%"}
 
-Interestingly, the plotted graph between "median household income" and "Starbucks per million inhabitants" shows no correlation unlike what I expected given the common perception that Starbucks is considered an 'everyday luxury' or 'treat'. (Insert more findings and thoughts here as this is still in the works)
+knitr::include_graphics("C:/Users/yeojy/Documents/Y2S1/NM2207/nusyjying.github.io/src/images/graphwypipo.png")
+
+```
+
+```{r, eval=TRUE,echo=FALSE,out.width="70%"}
+
+knitr::include_graphics("C:/Users/yeojy/Documents/Y2S1/NM2207/nusyjying.github.io/src/images/graphses.png")
+
+```
+
+```{r, eval=TRUE,echo=FALSE,out.width="70%"}
+
+knitr::include_graphics("C:/Users/yeojy/Documents/Y2S1/NM2207/nusyjying.github.io/src/images/graphage.png")
+
+```
+
+In the graph for age versus Starbucks distribution, the points cluster broadly and mostly between the early 20s to early 50s. At first glance, it is telling of the general demographic of Starbucks to tend towards those of the millennial generation and Generation X (with points bearing higher number of Starbucks per million inhabitants occurring between the mid-20s to late 40s). This also aligns with general ceonceptions and stereotypes of Starbucks as a millennial luxury or indulgence. 
+
+Interestingly, the plotted graph between "median household income" and "Starbucks per million inhabitants" shows no correlation unlike what I expected given the common perception that Starbucks is considered an 'everyday luxury' or 'treat'. Hence, I conclude that the real issue is definitely more nuanced than simple "higher SES = more Starbucks patronage". 
+
+Ultimately, the weak correlation tells me that the association between the frequency of Starbucks branches and outlets in a particular geographical location and factors such as population whiteness, age, and SES is weak. However, the observable positive correlation in the plots between "percentage of white population and Starbucks per million inhabitants" is apparent, which at least suggests that the stereotype that Starbucks leans towards a customer profile and target of satisfaction that may be prominently White does have some effect in the patronage demographics of Starbucks. Furthermore, my first concern was on Starbucks as a 'white-biased' brand, which _is_ helpful in identifying at least some weak relationship between Starbucks, their brand and identity, and the racial profile of their customers. However, it is not a _determining_ factor in deciding the frequency of distribution of Starbucks branches in a US Californa location. 
