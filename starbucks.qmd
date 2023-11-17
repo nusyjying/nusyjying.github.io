@@ -16,8 +16,6 @@ Here is an embedded Shiny app for you to explore the plots of the Starbucks data
 
 Through this project, my main questions were that "Does Starbucks everyday association and correlation to (the white) race and socioeconomic status (SES) offer any insightful reflections on consumer culture, social stratification, and branding?" and "Otherwise, is it all just a matter of stereotyping and coincidence?". 
 
-From my own exploration of this plot visualisation app, I personally observe that there doesn't seem to be a strong correlation between the proportion of Starbucks distribution and most of my variables of concern. The scatterplots do seem quite sparsely separated in the generated graphs, and 
-
 I’m personally looking at Percentage of white population, Median household income, Median age, Number of Starbucks, Starbucks per million inhabitants, and Starbucks per 10 sq mile. In particular, I want to pay special attention to **Starbucks per million inhabitants** as a way for me to relate the differing populations of the different geographical locations to give me the most apt proportion of Starbucks distribution.
 
 ```{r, eval=TRUE,echo=FALSE,out.width="70%"}
@@ -37,6 +35,8 @@ knitr::include_graphics("C:/Users/yeojy/Documents/Y2S1/NM2207/nusyjying.github.i
 knitr::include_graphics("C:/Users/yeojy/Documents/Y2S1/NM2207/nusyjying.github.io/src/images/graphage.png")
 
 ```
+
+From my own exploration of this plot visualisation app, I personally observe that there doesn't seem to be a strong correlation between the proportion of Starbucks distribution and most of my variables of concern. The scatterplots do seem quite sparsely separated in the generated graphs, and at first glance, the weak correlations suggest little relationship between my variables of interest.
 
 In the graph for age versus Starbucks distribution, the points cluster broadly and mostly between the early 20s to early 50s. At first glance, it is telling of the general demographic of Starbucks to tend towards those of the millennial generation and Generation X (with points bearing higher number of Starbucks per million inhabitants occurring between the mid-20s to late 40s). This also aligns with general ceonceptions and stereotypes of Starbucks as a millennial luxury or indulgence. 
 
