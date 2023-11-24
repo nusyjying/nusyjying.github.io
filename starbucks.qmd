@@ -4,7 +4,7 @@ title: "ʚ♡ɞ Final Project - Starbucks ʚ♡ɞ"
 
 <style>
   body {
-  background-image: url(https://i.pinimg.com/originals/a9/e2/01/a9e201fa47cf9c4b35d28feb54ace7a4.png);
+  background-image: url(https://i.pinimg.com/originals/fa/d0/24/fad024cd9459c3c241dc109eae493087.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
